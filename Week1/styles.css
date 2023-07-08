@@ -1,0 +1,9 @@
+body{
+    background-color: cornsilk;
+    text-align: center;
+}
+
+#demobutton{
+    background-color: rgb(14, 186, 254);
+    color: white;
+}
